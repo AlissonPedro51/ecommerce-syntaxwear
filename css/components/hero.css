@@ -3,8 +3,8 @@
 .hero-section {
 background: url(../../images/banners/hero.jpg) no-repeat center;
 background-size: cover;
-
-height: 500px;
+border-radius: 20px;
+height: 400px;
 position: relative;
 }
 
